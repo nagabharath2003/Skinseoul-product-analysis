@@ -19,15 +19,6 @@ What type of promotions (discounts, bundles, seasonal offers) would drive the mo
 
 How can we leverage digital marketing (social media, influencers, and ads) to increase brand reach?
 
-🗂 Dataset & Key Metrics Analyzed
-The dataset consists of last month’s performance data for different skincare products, including:
-
-Product Name	Brand	Price (USD)	Cost Price (USD)	Units Sold	Revenue (USD)	Stock Availability (Days)	Competitor Price (USD)
-AHA Hydration Cream	COSRX	25	15	1100	27500	12	27
-Snail Repair Cream	Mizon	18	11	2300	41400	9	20
-Ultra Barrier Cream	Dr. Jart+	40	24	650	26000	20	38
-Centella Soothing Gel	Purito	22	13	1600	35200	18	22
-Water Bank Blue Hyaluronic Cream	Laneige	45	27	550	24750	26	43
 🔹 Key Metrics Derived:
 
 Profit per unit = Price - Cost Price
